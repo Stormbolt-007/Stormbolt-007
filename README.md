@@ -1,5 +1,6 @@
-### 
-Hi there 👋 , I'm Saksham Sharma.
+
+<h1 align="center">Hi <img src="Assets/Hi.gif" height="32px"> I am Piyush!</h1>
+
 ______________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
