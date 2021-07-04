@@ -9,25 +9,21 @@ ________________________________________________________________________________
 - 📫 How to reach me: sakshams358@gmail.com
 - :octocat: I ❤️ Dark Mode.
 
-_____________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 
 ### Connect with me:
-
-<p align = "center">
 
   <a href = "https://github.com/Stormbolt-007.io/"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
   <a href = "https://www.linkedin.com/in/saksham-s-6390221b4/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "https://www.instagram.com/saksham_the_rockstar/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 
 ### My _Developer_ Profiles:
 
-<p align="center">
   <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://github.com/Stormbolt-007"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</p>
-_________________________________________________________________________________________________________________________________________________________________________
+  
+______________________________________________________________________________________________________________________________________________________________________________
 
 ### My Tech Stack:
 
