@@ -1,6 +1,4 @@
-###    
-<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="300" height="200" />
-
+### 
 Hi there 👋 , I'm Saksham Sharma.
 ______________________________________________________________________________________________________________________________________________________________________________
 
@@ -10,6 +8,11 @@ ________________________________________________________________________________
 - 💬 Ask me about programming.
 - 📫 How to reach me: sakshams358@gmail.com
 - :octocat: I ❤️ Dark Mode.
+________________________________________________________________________________________________________________________________________________________________________________
+### Connect with me:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 ________________________________________________________________________________________________________________________________________________________________________________
 
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=gradient)
