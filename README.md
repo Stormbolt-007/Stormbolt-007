@@ -1,4 +1,7 @@
-###                                                                   Hi there 👋 , I'm Saksham Sharma.
+###    
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="300" height="200" />
+
+Hi there 👋 , I'm Saksham Sharma.
 ______________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
