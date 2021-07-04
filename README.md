@@ -31,7 +31,6 @@ ________________________________________________________________________________
 
 ### My Tech Stack:
 
-<p align = "center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
@@ -40,9 +39,8 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-</p>
 
-______________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________
 
 ### Languages and Tools:
 
@@ -56,8 +54,10 @@ ________________________________________________________________________________
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-_______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
 
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbolt-007&layout=compact)]
+- ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=gradient)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbolt-007&layout=compact)]
+  
+______________________________________________________________________________________________________________________________________________________________________________
