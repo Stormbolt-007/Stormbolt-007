@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern.
 - :octocat: I ❤️ Dark Mode.
-- 📫 How to contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
+- 📫 For contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
@@ -42,9 +42,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
   
-______________________________________________________________________________________________________________________________________________________________________________
-  
-### Languages and Tools:
+<p align="left"> 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -60,6 +58,7 @@ ________________________________________________________________________________
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  </p>
   
 ________________________________________________________________________________________________________________________________________________________
   
