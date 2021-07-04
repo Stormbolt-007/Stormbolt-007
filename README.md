@@ -8,7 +8,9 @@ ________________________________________________________________________________
 - 💬 Ask me about programming.
 - 📫 How to reach me: sakshams358@gmail.com
 - :octocat: I ❤️ Dark Mode.
+
 ________________________________________________________________________________________________________________________________________________________________________________
+
 ### Connect with me:
 
 <p align = "center">
@@ -26,6 +28,7 @@ ________________________________________________________________________________
   <a href="https://github.com/Stormbolt-007"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </p>
 ________________________________________________________________________________________________________________________________________________________________________________
+
 **My Tech Stack:**
 
 <p align = "center">
@@ -38,7 +41,9 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
+
 ________________________________________________________________________________________________________________________________________________________________________________
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -50,6 +55,7 @@ ________________________________________________________________________________
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 _______________________________________________________________________________________________________________________________________________________________________________
 
 
