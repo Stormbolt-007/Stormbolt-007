@@ -8,7 +8,6 @@ ________________________________________________________________________________
 - 📫 How to reach me: sakshams358@gmail.com
 - ⚡ Fun fact: 
 
-[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007)](https://github.com/Stormbolt-007/github-readme-stats)
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&hide=contribs,prs)
 
 
