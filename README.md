@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm saksham sharma</h1>
+<h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities to join as an intern.
 - :octocat: I ❤️ Dark Mode.
-- 📫 How to reach me: <a href="mailto: sakshams358@gmail.com">Email_me</a>
+- 📫 How to contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
