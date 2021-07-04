@@ -30,6 +30,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________
 
 ### My Tech Stack:
+<p align="left">
 
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
@@ -39,7 +40,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-
+</p>
 _____________________________________________________________________________________________________________________________________________________________________________
 
 ### Languages and Tools:
