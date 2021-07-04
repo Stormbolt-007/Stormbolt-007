@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - :octocat: I ❤️ Dark Mode.
 ________________________________________________________________________________________________________________________________________________________________________________
 
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=merko)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbolt-007)]
 
 
