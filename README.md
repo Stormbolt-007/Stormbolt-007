@@ -6,5 +6,8 @@ ________________________________________________________________________________
 - 👯 I’m looking to collaborate on JAVA based programs.
 - 💬 Ask me about programming.
 - 📫 How to reach me: sakshams358@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+
+[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007)](https://github.com/anuraghazra/github-readme-stats)
+
 
