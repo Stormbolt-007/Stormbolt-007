@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - ⚡ Fun fact: 
 
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&hide=contribs,prs)
-![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&count_private=true)
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=radical)
 
 
 
