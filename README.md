@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Saksham Sharma.
+###                                                                   Hi there 👋 , I'm Saksham Sharma.
 ______________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
@@ -9,7 +9,6 @@ ________________________________________________________________________________
 - ⚡ Fun fact: 
 
 ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=merko)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stormbolt-007&repo=github-readme-stats)](https://github.com/Stormbolt-007/github-readme-stats)
 
 
 
