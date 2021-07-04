@@ -63,7 +63,7 @@ ________________________________________________________________________________
   
 ### Github Stats:
 
-  ![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stormbolt-007&show_icons=true&theme=gradient)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormbolt-007&" alt="stormbolt-007" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbolt-007&layout=compact)
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormbolt-007&" alt="stormbolt-007" /></p>
