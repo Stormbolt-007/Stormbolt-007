@@ -5,10 +5,11 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
 - 🌱 I’m currently learning Java, Android Development and Web Devlopment.
-- 👯 I’m looking to collaborate on JAVA based programs.
 - 💬 Ask me about programming.
-- 📫 How to reach me: sakshams358@gmail.com
+- 😊 Willing to contribute in opensource projects.
+- 👍 Looking for opportunities to join as an intern.
 - :octocat: I ❤️ Dark Mode.
+- 📫 How to reach me: Email me <a href="mailto: sakshams358@gmail.com">here</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
