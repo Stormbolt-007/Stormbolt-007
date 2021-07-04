@@ -19,9 +19,9 @@ ________________________________________________________________________________
   <a href = "https://www.linkedin.com/in/saksham-s-6390221b4/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "https://www.instagram.com/saksham_the_rockstar/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-____________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
-**My _Developer_ Profiles:**
+### My _Developer_ Profiles:
 
 <p align="center">
   <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 </p>
 _________________________________________________________________________________________________________________________________________________________________________
 
-**My Tech Stack:**
+### My Tech Stack:
 
 <p align = "center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
