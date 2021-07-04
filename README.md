@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 
 ______________________________________________________________________________________________________________________________________________________________________________
+### I am CS undergrad at GLA UNIVERSITY MATHURA, currently I am in 2nd year.
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
 - 🌱 I’m currently learning Java, Android Development and Web Devlopment.
@@ -62,7 +63,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
   
 ### Github Stats:
-
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormbolt-007" alt="stormbolt-007" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stormbolt-007&show_icons=true&locale=en" alt="stormbolt-007" /></p>
 
