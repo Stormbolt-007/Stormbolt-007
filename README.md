@@ -6,10 +6,10 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently working on Android Application Development with JAVA.
 - 🌱 I’m currently learning Java, Android Development and Web Devlopment.
+- 😊 Currently doing Summer Intern in NETCAMP SOLUTIONS PVT. LTD.
 - 💬 Ask me about programming.
 - 👨‍💻 All of my projects are available [here](https://github.com/Stormbolt-007?tab=repositories)
-- 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an intern.
+- 👍 Willing to contribute in opensource projects.
 - :octocat: I ❤️ Dark Mode.
 - 📫 For contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
 
