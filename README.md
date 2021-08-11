@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ### Connect with me:
 
-  <a href = "https://github.com/Stormbolt-007.io/"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
+  <a href = "https://github.com/Stormbolt-007/"><img src ="https://img.shields.io/badge/github-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"/></a>
   <a href = "https://www.linkedin.com/in/saksham-s-6390221b4/" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "https://www.instagram.com/saksham_the_rockstar/" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href = "https://www.facebook.com/profile.php?id=100022548558763" target ="_blank"><img src="https://img.shields.io/badge/facebook%20-%2300599C.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> 
