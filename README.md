@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - 👍 Willing to contribute in opensource projects.
 - :octocat: I ❤️ Dark Mode.
 - 📫 For contact me: <a href="mailto: sakshams358@gmail.com">sakshams358@gmail.com</a> </br>
-                      <a href="mailto: saksham.sharma_cs19@gla.ac.in">saksham.sharma_cs19@gla.ac.in</a>
+-                    <a href="mailto: saksham.sharma_cs19@gla.ac.in">saksham.sharma_cs19@gla.ac.in</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
