@@ -11,7 +11,8 @@ ________________________________________________________________________________
 - 👨‍💻 All of my projects are available [here](https://github.com/Stormbolt-007?tab=repositories)
 - 👍 Willing to contribute in opensource projects.
 - :octocat: I ❤️ Dark Mode.
-- 📫 For contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
+- 📫 For contact me: <a href="mailto: sakshams358@gmail.com">sakshams358@gmail.com</a>
+                      <a href="mailto: saksham.sharma_cs19@gla.ac.in">saksham.sharma_cs19@gla.ac.in</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
