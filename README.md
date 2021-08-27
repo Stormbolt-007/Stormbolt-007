@@ -4,7 +4,6 @@
 ______________________________________________________________________________________________________________________________________________________________________________
 ### I am CS undergrad at GLA UNIVERSITY MATHURA, currently I am in 3rd year.
 
-- 🔭 I’m currently working on Android Application Development with JAVA.
 - 🌱 I’m currently learning Java, Android Development and Web Devlopment.
 - 😊 Currently doing Summer Intern in NETCAMP SOLUTIONS PVT. LTD.
 - 💬 Ask me about programming.
@@ -12,7 +11,7 @@ ________________________________________________________________________________
 - 👍 Willing to contribute in opensource projects.
 - :octocat: I ❤️ Dark Mode.
 - 📫 For contact me: <a href="mailto: sakshams358@gmail.com">sakshams358@gmail.com</a> </br>
-                     <a href="mailto: saksham.sharma_cs19@gla.ac.in">saksham.sharma_cs19@gla.ac.in</a>
+ <p>                 <a href="mailto: saksham.sharma_cs19@gla.ac.in">saksham.sharma_cs19@gla.ac.in</a></p>
 
 ______________________________________________________________________________________________________________________________________________________________________________
 
