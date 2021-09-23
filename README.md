@@ -4,12 +4,11 @@
 ______________________________________________________________________________________________________________________________________________________________________________
 ### I am CS undergrad at GLA UNIVERSITY MATHURA, currently I am in 3rd year.
 
-- 🌱 I’m currently learning Java, Android Development and Web Devlopment.
-- 😊 Currently doing Summer Intern in NETCAMP SOLUTIONS PVT. LTD.
-- 💬 Ask me about programming.
+- 🌱 I’m currently learning Web Devlopment.
+- 😊 Completed my Summer Intern in NETCAMP SOLUTIONS PVT. LTD.
+- 💬 Ask me about Logics.
 - 👨‍💻 All of my projects are available [here](https://github.com/Stormbolt-007?tab=repositories)
 - 👍 Willing to contribute in opensource projects.
-- :octocat: I ❤️ Dark Mode.
 - 📫 For contact me: <a href="mailto: sakshams358@gmail.com">Email</a>
 
 ______________________________________________________________________________________________________________________________________________________________________________
@@ -28,6 +27,8 @@ ________________________________________________________________________________
   <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://github.com/Stormbolt-007"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://codeforces.com/profile/saksham_s"><img src="https://img.shields.io/badge/CodeForces%20-%23F05033.svg?&style=for-the-badge&logo=CodeForces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/saksham_s">  <img src="https://img.shields.io/badge/Codechef%20-%23DA2307.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/> 
+</a>
 
   
 ______________________________________________________________________________________________________________________________________________________________________________
@@ -40,18 +41,17 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/java%20-%23DA2307.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL%20-%#c2720a.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
   
 <p align="left"> 
-<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   </p>
   
