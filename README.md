@@ -40,7 +40,7 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/java%20-%23DA2307.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SQL%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20-%#c2720a.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
   
 <p align="left"> 
