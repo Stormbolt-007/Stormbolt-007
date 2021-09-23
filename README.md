@@ -25,8 +25,10 @@ ________________________________________________________________________________
 
 ### My _Developer_ Profiles:
 
-  <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=CodeForces&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/-HackerRank-33BF11?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://github.com/Stormbolt-007"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/SakshamSharma007"><img src="https://img.shields.io/badge/CodeForces%20-%23F05033.svg?&style=for-the-badge&logo=CodeForces&logoColor=white"/></a>
+
   
 ______________________________________________________________________________________________________________________________________________________________________________
 
