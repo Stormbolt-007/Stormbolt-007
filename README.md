@@ -59,7 +59,6 @@ ________________________________________________________________________________
 ### Github Stats:
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormbolt-007&label=Profile%20views&color=0e75b6&style=flat" alt="stormbolt-007" /> </p>
-  https://run.kaist.ac.kr/badges/codeforces/jo_on.svg
 
 
 
