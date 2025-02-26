@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Sharma</h1>
 
 ______________________________________________________________________________________________________________________________________________________________________________
-### I am CS undergrad at GLA UNIVERSITY MATHURA, currently I am in 3rd year.
+### I am CS undergrad from GLA UNIVERSITY MATHURA, currently doing my apprenticeship from BHARAT ELECTRONICS LTD.(BEL)
 
 - 🌱 I’m currently learning Web Devlopment.
 - 😊 Completed my Summer Intern in NETCAMP SOLUTIONS PVT. LTD.
